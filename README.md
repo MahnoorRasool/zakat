@@ -1,0 +1,2 @@
+# zakat
+ js code
